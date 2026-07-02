@@ -2,5 +2,6 @@ caldo
 casa
 centro
 chiamata
+cielo
 cioccolato
 cocomero

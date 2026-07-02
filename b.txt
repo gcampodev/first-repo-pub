@@ -1,5 +1,6 @@
 bambino
 bello
+binario
 bolla
 bravo
 buono

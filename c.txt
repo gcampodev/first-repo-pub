@@ -1,5 +1,6 @@
 caldo
 casa
+centro
 chiamata
 cioccolato
 cocomero

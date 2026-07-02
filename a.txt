@@ -5,6 +5,7 @@ alieno
 altezza
 altro
 ancora
+anima
 arrivare
 arte
 avviare
